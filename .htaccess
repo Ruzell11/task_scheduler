@@ -1,0 +1,13 @@
+# Enable error display (for debugging - remove in production)
+php_flag display_errors On
+php_value error_reporting E_ALL
+
+# Set default timezone
+php_value date.timezone "Asia/Manila"
+
+# Increase upload size
+php_value upload_max_filesize 20M
+php_value post_max_size 20M
+
+# Prevent directory listing
+Options -Indexes
