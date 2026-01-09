@@ -88,7 +88,7 @@ include '../../includes/header.php';
             <!-- Main Content Row -->
             <div class="row">
                 <!-- AI Recommendations -->
-                <div class="col-md-6">
+                <!-- <div class="col-md-6">
                     <div class="card">
                         <div class="card-header">
                             <h3 class="card-title">
@@ -103,10 +103,10 @@ include '../../includes/header.php';
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
                 <!-- Today's Tasks -->
-                <div class="col-md-6">
+                <div class="col-md-12">
                     <div class="card">
                         <div class="card-header">
                             <h3 class="card-title">

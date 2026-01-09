@@ -98,12 +98,12 @@ $user_email = isset($_SESSION['user_email']) ? $_SESSION['user_email'] : '';
                             <p>AI Schedule</p>
                         </a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a href="/views/schedule/suggestions.php" class="nav-link">
                             <i class="nav-icon fas fa-lightbulb"></i>
                             <p>Suggestions</p>
                         </a>
-                    </li>
+                    </li> -->
                 </ul>
             </nav>
         </div>

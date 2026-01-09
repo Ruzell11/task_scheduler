@@ -32,10 +32,10 @@
             <span>AI Schedule</span>
         </a>
         
-        <a href="../schedule/suggestions.php" class="nav-item">
+        <!-- <a href="../schedule/suggestions.php" class="nav-item">
             <span class="nav-icon">💡</span>
             <span>Suggestions</span>
-        </a>
+        </a> -->
     </nav>
     
     <div class="sidebar-footer">
